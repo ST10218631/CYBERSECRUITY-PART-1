@@ -1,0 +1,15 @@
+/Users/cebomlotywa/Library/Mobile Documents/com~apple~CloudDocs/CybersecurityAwarenessBot-Part1/src/CybersecurityAwarenessBot.Console/obj/Debug/net7.0/CybersecurityAwarenessBot.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cebomlotywa/Library/Mobile Documents/com~apple~CloudDocs/CybersecurityAwarenessBot-Part1/src/CybersecurityAwarenessBot.Console/obj/Debug/net7.0/CybersecurityAwarenessBot.Console.AssemblyInfoInputs.cache
+/Users/cebomlotywa/Library/Mobile Documents/com~apple~CloudDocs/CybersecurityAwarenessBot-Part1/src/CybersecurityAwarenessBot.Console/obj/Debug/net7.0/CybersecurityAwarenessBot.Console.AssemblyInfo.cs
+/Users/cebomlotywa/Library/Mobile Documents/com~apple~CloudDocs/CybersecurityAwarenessBot-Part1/src/CybersecurityAwarenessBot.Console/obj/Debug/net7.0/CybersecurityAwarenessBot.Console.csproj.CoreCompileInputs.cache
+/Users/cebomlotywa/Library/Mobile Documents/com~apple~CloudDocs/CybersecurityAwarenessBot-Part1/src/CybersecurityAwarenessBot.Console/bin/Debug/net7.0/assets/ascii/cyber-banner.txt
+/Users/cebomlotywa/Library/Mobile Documents/com~apple~CloudDocs/CybersecurityAwarenessBot-Part1/src/CybersecurityAwarenessBot.Console/bin/Debug/net7.0/assets/audio/welcome-greeting.wav
+/Users/cebomlotywa/Library/Mobile Documents/com~apple~CloudDocs/CybersecurityAwarenessBot-Part1/src/CybersecurityAwarenessBot.Console/bin/Debug/net7.0/CybersecurityAwarenessBot.Console.deps.json
+/Users/cebomlotywa/Library/Mobile Documents/com~apple~CloudDocs/CybersecurityAwarenessBot-Part1/src/CybersecurityAwarenessBot.Console/bin/Debug/net7.0/CybersecurityAwarenessBot.Console.runtimeconfig.json
+/Users/cebomlotywa/Library/Mobile Documents/com~apple~CloudDocs/CybersecurityAwarenessBot-Part1/src/CybersecurityAwarenessBot.Console/bin/Debug/net7.0/CybersecurityAwarenessBot.Console.dll
+/Users/cebomlotywa/Library/Mobile Documents/com~apple~CloudDocs/CybersecurityAwarenessBot-Part1/src/CybersecurityAwarenessBot.Console/bin/Debug/net7.0/CybersecurityAwarenessBot.Console.pdb
+/Users/cebomlotywa/Library/Mobile Documents/com~apple~CloudDocs/CybersecurityAwarenessBot-Part1/src/CybersecurityAwarenessBot.Console/obj/Debug/net7.0/CybersecurityAwarenessBot.Console.dll
+/Users/cebomlotywa/Library/Mobile Documents/com~apple~CloudDocs/CybersecurityAwarenessBot-Part1/src/CybersecurityAwarenessBot.Console/obj/Debug/net7.0/refint/CybersecurityAwarenessBot.Console.dll
+/Users/cebomlotywa/Library/Mobile Documents/com~apple~CloudDocs/CybersecurityAwarenessBot-Part1/src/CybersecurityAwarenessBot.Console/obj/Debug/net7.0/CybersecurityAwarenessBot.Console.pdb
+/Users/cebomlotywa/Library/Mobile Documents/com~apple~CloudDocs/CybersecurityAwarenessBot-Part1/src/CybersecurityAwarenessBot.Console/obj/Debug/net7.0/CybersecurityAwarenessBot.Console.genruntimeconfig.cache
+/Users/cebomlotywa/Library/Mobile Documents/com~apple~CloudDocs/CybersecurityAwarenessBot-Part1/src/CybersecurityAwarenessBot.Console/obj/Debug/net7.0/ref/CybersecurityAwarenessBot.Console.dll
